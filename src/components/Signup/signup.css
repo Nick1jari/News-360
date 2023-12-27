@@ -1,0 +1,6 @@
+.center {
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin-top: 10rem;
+}

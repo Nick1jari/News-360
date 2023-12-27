@@ -1,0 +1,10 @@
+.center {
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin-top: 10rem;
+}
+.bs {
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
